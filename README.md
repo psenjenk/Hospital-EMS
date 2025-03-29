@@ -1,6 +1,6 @@
-# Hospital CRM (Customer Relationship Management) System
+# Hospital Management System
 
-A comprehensive Hospital Information Management System built with Node.js and MySQL, designed to streamline hospital operations and improve patient care.
+A comprehensive Hospital Management System built with Node.js and MySQL, designed to streamline hospital operations and improve patient care.
 
 ## Features
 
@@ -94,7 +94,7 @@ A comprehensive Hospital Information Management System built with Node.js and My
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-   cd Hospital-CRM
+   cd Hospital-Management-System
    ```
 
 2. Install dependencies:
